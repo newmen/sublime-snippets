@@ -1,0 +1,6 @@
+<snippet>
+	<description>std::stack</description>
+    <content><![CDATA[std::stack<${1:int}> s$0;]]></content>
+    <tabTrigger>stack</tabTrigger>
+    <scope>source.c++, source.objc++</scope>
+</snippet>
