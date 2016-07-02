@@ -1,0 +1,11 @@
+<snippet>
+<description>begin ... rescue  binding.pry  end</description>
+    <content><![CDATA[
+begin
+rescue
+  binding.pry
+end
+]]></content>
+    <tabTrigger>br</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>

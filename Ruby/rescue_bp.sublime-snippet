@@ -1,0 +1,9 @@
+<snippet>
+<description>rescue   binding.pry</description>
+    <content><![CDATA[
+rescue
+  binding.pry
+]]></content>
+    <tabTrigger>rq</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>
